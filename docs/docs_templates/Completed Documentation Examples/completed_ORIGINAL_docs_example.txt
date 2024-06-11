@@ -58,6 +58,11 @@ export default CreatePost;
 * Component Type : Data Mutation Component
 * Date Created   : 2023-08-22
 * Developer Name : Jim Baker
+* 
+* I did not write this component, but I am the first person 
+* to document it. 
+*
+*
 * ------------------------------
 * Question: Why was it necessary to create this component?
 * Answer  : To follow standard coding guidelines.
@@ -84,7 +89,7 @@ export default CreatePost;
 * none
 * ------------------------------
 * Output Comments:  (Enter "none" if you have no comments)
-* n/a
+* none
 * ------------------------------
 * Additional Comments:
 * Question: Did you have to write any unusual code? 
